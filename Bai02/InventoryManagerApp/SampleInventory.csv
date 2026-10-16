@@ -1,0 +1,4 @@
+ProductId,ProductName,Category,Price,Quantity,ImagePath
+SP001,"Laptop văn phòng",Điện tử,12500000,8,
+SP002,"Chuột không dây",Phụ kiện,250000,25,
+SP003,"Bộ định tuyến Wi-Fi",Thiết bị mạng,890000,12,

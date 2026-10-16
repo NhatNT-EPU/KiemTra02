@@ -1,0 +1,30 @@
+
+# Visual Studio - file cau hinh va cache
+.vs/
+**/.vs/
+
+# File build va du lieu tam
+[Bb]in/
+[Oo]bj/
+**/[Bb]in/
+**/[Oo]bj/
+
+# File ca nhan cua Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# File log
+*.log
+
+# File tam
+*.tmp
+*.temp
+
+# File he thong Windows
+Thumbs.db
+Desktop.ini
+
+# File macOS
+.DS_Store
